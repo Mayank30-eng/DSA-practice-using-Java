@@ -3,5 +3,13 @@
 .idea/
 .vscode/
 *.iml
-*.png
+
+# Video formats - ignore all video files
 *.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.flv
+*.wmv
+

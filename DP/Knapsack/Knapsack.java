@@ -1,5 +1,5 @@
 
-public class Knapsack{
+public class Knapsack {
 
     static int knapsack(int[] wt, int[] val, int W, int n) {
 
@@ -38,6 +38,6 @@ public class Knapsack{
 
         int maxProfit = knapsack(wt, val, W, n);
 
-        System.out.println("Maximum Profit: " + maxProfit);
+        System.out.println("Maximum Profit hai y : " + maxProfit);
     }
 }
